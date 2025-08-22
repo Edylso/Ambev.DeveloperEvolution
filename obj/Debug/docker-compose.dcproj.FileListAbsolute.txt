@@ -1,0 +1,1 @@
+/Users/edilsoamorim/Library/CloudStorage/GoogleDrive-edylso@gmail.com/My Drive/CI&T Desafio/abi-gth-omnia-developer-evaluation (1)/template/backend/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
