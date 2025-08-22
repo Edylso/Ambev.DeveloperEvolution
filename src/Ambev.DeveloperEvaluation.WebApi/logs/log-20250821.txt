@@ -1,0 +1,52 @@
+2025-08-21 07:07:55.467 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-08-21 07:07:55.554 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/edilsoamorim/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-08-21 07:07:55.988 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2025-08-21 07:07:55.989 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-08-21 07:07:55.989 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Production
+2025-08-21 07:07:55.989 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/edilsoamorim/Library/CloudStorage/GoogleDrive-edylso@gmail.com/My Drive/CI&T Desafio/abi-gth-omnia-developer-evaluation (1)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-08-21 07:08:35.862 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-08-21 10:47:52.081 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-08-21 10:47:52.181 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/edilsoamorim/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-08-21 10:47:52.681 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2025-08-21 10:47:52.681 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-08-21 10:47:52.681 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Production
+2025-08-21 10:47:52.681 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/edilsoamorim/Library/CloudStorage/GoogleDrive-edylso@gmail.com/My Drive/CI&T Desafio/abi-gth-omnia-developer-evaluation (1)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-08-21 10:49:33.759 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-08-21 11:03:16.387 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-08-21 11:03:16.488 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/edilsoamorim/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-08-21 11:03:16.529 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-08-21 11:03:16.529 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-08-21 11:03:16.530 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-08-21 11:03:16.530 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/edilsoamorim/Library/CloudStorage/GoogleDrive-edylso@gmail.com/My Drive/CI&T Desafio/abi-gth-omnia-developer-evaluation (1)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-08-21 11:03:27.266 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/index.html - null null
+2025-08-21 11:03:27.326 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/index.html - 200 null text/html;charset=utf-8 60.5637ms
+2025-08-21 11:03:27.496 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/index.js - null null
+2025-08-21 11:03:27.506 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/index.js - 200 null application/javascript;charset=utf-8 9.9933ms
+2025-08-21 11:03:27.656 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/v1/swagger.json - null null
+2025-08-21 11:03:27.736 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.7265ms
+2025-08-21 11:04:00.408 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/api/Sales/3fa85f64-5717-4562-b3fc-2c963f66afa6 - null null
+2025-08-21 11:04:00.450 -03:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi)'
+2025-08-21 11:04:00.477 -03:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker Route matched with {action = "GetSale", controller = "Sales"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSale(System.Guid, System.Threading.CancellationToken) on controller Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController (Ambev.DeveloperEvaluation.WebApi).
+2025-08-21 11:04:00.550 -03:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker Executed action Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi) in 71.2143ms
+2025-08-21 11:04:00.550 -03:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi)'
+2025-08-21 11:04:00.567 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/api/Sales/3fa85f64-5717-4562-b3fc-2c963f66afa6 - 500 null text/plain; charset=utf-8 159.4115ms
+2025-08-21 11:04:25.217 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-08-21 11:17:16.825 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-08-21 11:17:16.910 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/edilsoamorim/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-08-21 11:17:16.945 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-08-21 11:17:16.946 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-08-21 11:17:16.946 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-08-21 11:17:16.946 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/edilsoamorim/Library/CloudStorage/GoogleDrive-edylso@gmail.com/My Drive/CI&T Desafio/abi-gth-omnia-developer-evaluation (1)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-08-21 11:17:28.766 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/index.html - null null
+2025-08-21 11:17:28.844 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/index.html - 200 null text/html;charset=utf-8 79.8106ms
+2025-08-21 11:17:28.872 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/index.js - null null
+2025-08-21 11:17:28.881 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/index.js - 200 null application/javascript;charset=utf-8 6.9849ms
+2025-08-21 11:17:28.967 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/swagger/v1/swagger.json - null null
+2025-08-21 11:17:29.038 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 71.0133ms
+2025-08-21 11:17:46.901 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/api/Sales/3fa85f64-5717-4562-b3fc-2c963f66afa6 - null null
+2025-08-21 11:17:46.936 -03:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi)'
+2025-08-21 11:17:46.956 -03:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker Route matched with {action = "GetSale", controller = "Sales"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSale(System.Guid, System.Threading.CancellationToken) on controller Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController (Ambev.DeveloperEvaluation.WebApi).
+2025-08-21 11:17:47.517 -03:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker Executed action Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi) in 559.3145ms
+2025-08-21 11:17:47.517 -03:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'Ambev.DeveloperEvaluation.WebApi.Features.Sales.SalesController.GetSale (Ambev.DeveloperEvaluation.WebApi)'
+2025-08-21 11:17:47.530 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/api/Sales/3fa85f64-5717-4562-b3fc-2c963f66afa6 - 500 null text/plain; charset=utf-8 628.0824ms
+2025-08-21 11:18:27.463 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
